@@ -7,3 +7,5 @@ Ainda acrescentando anotações sobre os conhecimentos adquiridos 🌱
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [Emojipedia](https://emojipedia.org/objects/)
+
+[TinyPNG](https://tinypng.com/)
