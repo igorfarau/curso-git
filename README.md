@@ -9,3 +9,5 @@ Ainda acrescentando anotações sobre os conhecimentos adquiridos 🌱
 [Emojipedia](https://emojipedia.org/objects/)
 
 [TinyPNG](https://tinypng.com/)
+
+[Livro: Dive Into HTML5](https://diveintohtml5.com.br/)
