@@ -4,7 +4,7 @@ Repositório criado para o Desafio de Projeto 💻
 Ainda acrescentando anotações sobre os conhecimentos adquiridos 🌱
 
 ## Links Úteis
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Sintaxe Básica Markdown</a>
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/){:target="_blank"}
 
 [Emojipedia](https://emojipedia.org/objects/ a target="_blank")
 
